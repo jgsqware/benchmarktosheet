@@ -1,0 +1,20 @@
+{
+    "reports": [
+        {
+            "path" : "./host-master.json",
+            "name" : "Host Cluster - Master"
+        },
+        {
+            "path" : "./host-worker.json",
+            "name" : "Host Cluster - Worker"
+        },
+        {
+            "path" : "./guest-master.json",
+            "name" : "Guest Cluster - Master"
+        },
+        {
+            "path" : "./guest-worker.json",
+            "name" : "Guest Cluster - Worker"
+        }
+    ]
+}
